@@ -1,0 +1,123 @@
+body{padding:0; margin:0; background:url() #498D0D repeat-x; font:12px georgia;}
+
+img{float:left; border:0;}
+	
+input{padding:0; margin:0;}
+
+/*HEADER*/
+
+.header{float:left; width:952px;}
+
+.logo{float:left; margin:30px 0px 0px 38px;}
+
+.addon{margin:65px 0px 0px 502px;}
+
+.hd_bg1,.hd_bg2{
+					float:left; 
+					display:inline;
+					width:956px;
+					height:250px;
+					background:url(../images/gvm.jpg) no-repeat left;
+				}
+				
+.hd_bg1{margin-top:23px;}
+		
+.hd_bg2{float:left; background:url(../images/kangra.jpg) no-repeat right;}
+
+.hd_text1{float:left; font:23px tahoma; color:#514B44; margin:175px 0px 0px 37px;}
+
+.hd_text2{float:left; clear:left; font:30px tahoma; color:#514B44; margin:0px 0px 0px 112px;}
+
+.menu1{float:left; display:inline; width:953px; background:url(../images/menu_tile1.jpg) #45810F repeat-x; margin:5px 0px 0px 2px;}
+
+.menu2{float:left; width:951px; border-left:1px solid #5C9926; border-right:1px solid #5C9926;}
+
+.menu2 a{float:left; text-decoration:none; color:#fff; font:bold 16px Trebuchet MS; margin-left:63px;}
+
+.menu_img{margin:11px 0px 0px 77px;}
+
+/*CENTER*/
+
+.center{float:left; display:inline; width:953px; background-color:#FFF; margin-left:2px;}
+
+.cp_mblk{float:left; width:951px; border-left:1px solid #5C9926; border-right:1px solid #5C9926;}
+
+.left_blk{float:left; width:682px;}
+
+.sub_head1{float:left; font:bold 24px Georgia; font-style:italic; color:#395C17; margin:4px 0px 0px 35px;}
+
+.cp_text1{float:left; font:12px/16px georgia; width:385px; margin:20px 100px 0px 70px; color:#333333;}
+
+.cp_bdr1{float:left; margin:15px 0px 0px 35px;}
+
+.sub_head2{float:left; font:bold 22px Georgia; font-style:italic; color:#D82901; margin:21px 0px 0px 35px;}
+
+.cp_text2{float:left; font:12px/16px georgia; width:600px; margin:20px 0px 0px 37px; color:#333333;}
+
+.read1{float:left; color:#D82901; margin:13px 0px 0px 37px;}
+
+.read{float:left; color:#D82901; margin:13px 0px 0px 0px;}
+
+.sub_head3{float:left; font:bold 22px Georgia; font-style:italic; color:#395C17; margin:24px 0px 0px 34px;}
+
+.cp_pic1{float:left; margin:25px 0px 0px 31px;}
+
+.sub_text1{float:left; font:12px/16px Georgia; color:#000000; margin:20px 0px 0px 37px; width:242px;}
+
+.sub_text2{float:left; font:12px/16px Georgia; color:#000000; margin:20px 0px 0px 37px; width:288px;}
+
+.list1{float:left; width:300px;}
+
+.list1 span{float:left; background:url(../images/cp_blt.gif) no-repeat left; padding-left:15px; margin:8px .right_blk{float:left; width:269px; font:11px Georgia;}
+
+.sub_head4{float:left; font:bold 22px Georgia; font-style:italic; color:#FD2801; margin:6px 80px 0px 0px;}
+
+.date{float:left; color:#1B1111; margin:25px 0px 0px 0px;}
+
+.rp_text1{float:left; width:240px; color:#2B2B2B; font:11px/15px Georgia;}
+
+.rp_bdr{margin:9px 0px 0px 5px;}
+
+.r_read{float:left; color:#BD2E12;}
+
+.sub_head5{float:left; font:bold 22px Georgia; color:#101010; font-style:italic; margin-top:30px;}
+
+.list2{float:left; width:185px; margin:12px 0px 0px 15px; font:12px Georgia; color:#000B01;}
+
+.login_bot{float:left; display:inline; width:247px; background:url(../images/login_bot.jpg) no-repeat bottom; margin:30px 0px 0px 0px; padding-bottom:6px; background-color:#4E4D4E;}
+
+.login_top{float:left; width:247px; background:url(../images/login_top.jpg) no-repeat top; padding-top:6px;}
+
+.login_tile{float:left; width:247px; background:url(../images/login_tile.jpg) #4E4D4E repeat-x; padding-bottom:12px;}
+
+.login_head{float:left; font:bold 18px Georgia; color:#FFF; margin:8px 0px 0px 22px; font-style:italic;}
+
+.tbox1{float:left; width:166px; height:20px; border:1px solid #8E8E8E; font:14px tahoma; color:#535655; margin:15px 0px 0px 33px;}
+
+.login{float:left; width:48px; height:21px; background-color:#BD2E12; font:13px Georgia; color:#FFF; margin:9px 0px 0px 35px; border:0;}0px 0px 39px; font:12px/16px Georgia;}
+
+.footer{float:left; display:inline; width:951px; background:url(../images/fp_tile.jpg) #488A0E repeat-x; margin:2px 0px 0px 3px; padding-bottom:15px; position:relative; margin-right:-3px;}
+
+.fp_button1{
+				float:left; 
+				width:91px; 
+				height:16px; 
+				background:url(../images/fp_button.gif) no-repeat; 
+				font:bold 9px tahoma; 
+				color:#1C1B1B; 
+				border:0;
+			}		
+
+.ftr_a{
+				float:left; 
+				font:bold 10px tahoma; 
+				color:#FFF; 
+				margin:15px 0px 0px 5px; 
+				background:url(../images/fp_blt.gif) no-repeat left; 
+				padding-left:10px;
+				text-decoration:none;
+			}
+
+.fp_copy{float:left; font:9px tahoma; color:#FFF; margin:10px 0 0px 5px; width:500px;}
+
+.fp_copy a{ font:9px tahoma; color:#FFF; }
